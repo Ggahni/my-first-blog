@@ -1,10 +1,16 @@
+
+h1 a, h2 a {
+	color: #C25100;
+}
+
+
 .page-header {
 	background-color: #C25100;
 	margin-top: 0;
 	padding: 20px 20px 20px 40px;
 }
 
-.page-header h1, .page-geader h1 a, .page-header h1 a:visited, .page-header h1 a:active {
+.page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
 	color: #FFFFFF;
 	font-size: 36pt;
 	text-decoration: none;
@@ -38,6 +44,7 @@ h1, h2, h3, h4 {
 }
 
 .post {
+	padding-left: 40px;
 	margin-bottom: 70px;
 }
 
